@@ -3,8 +3,8 @@ kind: Namespace
 metadata:
   name: testpro-staging
   labels:
-    environmentId: env_71e9f856-6b4c-4b93-85d7-985120c0ffd0
-    projectId: project_c04d99c1-6ed8-4f2e-a765-37dee4ce586e
+    environmentId: env_c78d1891-cbf5-4dd6-b2c0-72aa5bde32f6
+    projectId: project_2b177be2-31b0-4ccf-b425-ab82256d7fcc
     projectName: testpro
     environmentName: staging
     organizationId: org_83167af8-ae98-451b-972e-dca861896824
