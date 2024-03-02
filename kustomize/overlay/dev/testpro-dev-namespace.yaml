@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: testpro-dev
+  labels:
+    environmentId: env_5a186e1b-b4b1-426a-996e-135e777836b8
+    projectId: project_c04d99c1-6ed8-4f2e-a765-37dee4ce586e
+    projectName: testpro
+    environmentName: dev
+    organizationId: org_83167af8-ae98-451b-972e-dca861896824
