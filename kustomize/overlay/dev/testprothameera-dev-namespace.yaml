@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: testprothameera-dev
+  labels:
+    environmentId: env_0cf8f51d-e3ba-4c57-bf18-251f9725b3a0
+    projectId: project_a0e8d097-2d10-4122-bec4-41f4f61ec6d3
+    projectName: testprothameera
+    environmentName: dev
+    organizationId: org_83167af8-ae98-451b-972e-dca861896824
